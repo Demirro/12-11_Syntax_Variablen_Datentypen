@@ -39,7 +39,7 @@ Ein String wird genutzt, um eine längere Zeichenkette, wie einen Satz, zu speic
 
 `String variable = "Hier ist eine längere Zeichenkette";`
 
-Diesen Datentypen werdet ihr in dieser Aufgabe nutzen müssen.
+Den Datentypen String werdet ihr in dieser Aufgabe nutzen müssen.
 
     
 ### ℹ️ Resourcen:
