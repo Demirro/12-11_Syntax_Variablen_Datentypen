@@ -20,7 +20,7 @@ Es sollte auch direkt auffallen, dass die verschiedenen Eigenschaften auch versc
 Ihr sollt nun die gesamten Daten des Personalausweises in ein kleines Java-Programm übertragen. 
 1. Erstellt ein neues Java Projekt und die benötigte Main-Methode
 2. Erstellt eine Variable für jedes Datenfeld des Personalausweises.
-    2.1 Überlegt euch immer welcher Datentyp am sinnvollsten ist. Es wird nicht unbedingt jeder einzelene Datentyp benutzt.
+2.1. Überlegt euch immer welcher Datentyp am sinnvollsten ist. Es wird nicht unbedingt jeder einzelene Datentyp benutzt.
 3. Gebt die gespeicherten Variablen in der Konsole aus (eine Zeile pro Variable)
 4. Versucht euren Code sinnvoll zu kommentieren
 5. Beachtet die Java Naming Conventions
