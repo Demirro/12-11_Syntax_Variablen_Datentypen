@@ -30,6 +30,7 @@ Als kleine Hilfestellung findet ihr hier unten noch ein paar Ressourcen, die euc
 ## Datentyp String
 Ein Datentyp der per se kein primitiver Datentyp ist, jedoch fast so genutzt wird ist der *String*
 Diese werden genutzt, um eine längere Zeichenkette, wie ein Satz, zu speichern, verarbeiten oder auszugeben. Beispiel wie man eine String-Variable in Java erstellt:
+
 `String variable = "Hier ist eine längere Zeichenkette";`
 
 Diesen Datentypen werdet ihr in dieser Aufgabe nutzen müssen.
