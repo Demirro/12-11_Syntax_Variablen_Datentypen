@@ -14,7 +14,7 @@ Es handelt sich bei dieser Aufgabe um eine relativ kleine Aufgabe. Sie soll dazu
 
 ![personalausweis](https://raw.githubusercontent.com/Demirro/12-11_Syntax_Variablen_Datentypen/main/PersonalAusweis_Java.jpg)
 
-Hier seht ihr einen Personalausweis mit diversen Feldern. Ein Feld ist zum Beispiel der Vorname. Diese Felder beschreiben die Person und bilden diverse Eigenschaften ab.
+Hier seht ihr einen Personalausweis mit diversen Feldern. Ein Feld ist zum Beispiel der Vorname: Max. Diese Felder beschreiben die Person und bilden diverse Eigenschaften ab.
 Es sollte auch direkt auffallen, dass die verschiedenen Eigenschaften auch verschiedene "Datentypen" benutzen.
 
 Ihr sollt nun die gesamten Daten des Personalausweises in ein kleines Java-Programm übertragen. 
