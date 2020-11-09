@@ -18,6 +18,7 @@ Hier seht ihr einen Personalausweis mit diversen Feldern. Diese Felder beschreib
 Dabei sollte in eurem Programm immer der zweite Teil des Feldes in eine Variable gespeichert werden. Beispiel für ein Feld:
 
 Vorname: Max
+
 Hier sollte "Max" in eine Variable gespeichert werden.
 
 Es sollte auch direkt auffallen, dass die verschiedenen Eigenschaften auch verschiedene "Datentypen" benutzen.
