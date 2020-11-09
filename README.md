@@ -12,6 +12,8 @@ Der hochgeladene Code ist eine Musterlösung. Es ist nicht die einzig wahre Lös
 
 Es handelt sich bei dieser Aufgabe um eine relativ kleine Aufgabe. Sie soll dazu dienen euch die primitiven Datentypen etwas näher zu bringen und diese richtig auszuwählen und einzusetzen.
 
+(https://raw.githubusercontent.com/Demirro/12-11_Syntax_Variablen_Datentypen/main/PersonalAusweis_Java.jpg)
+
 Hier seht ihr einen Personalausweis mit diversen Feldern. Diese Felder beschreiben die Person und bilden diverse Eigenschaften ab.
 Es sollte auch direkt auffallen, dass die verschiedenen Eigenschaften auch verschiedene "Datentypen" benutzen.
 
