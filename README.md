@@ -14,7 +14,12 @@ Es handelt sich bei dieser Aufgabe um eine relativ kleine Aufgabe. Sie soll dazu
 
 ![personalausweis](https://raw.githubusercontent.com/Demirro/12-11_Syntax_Variablen_Datentypen/main/PersonalAusweis_Java.jpg)
 
-Hier seht ihr einen Personalausweis mit diversen Feldern. Ein Feld ist zum Beispiel der Vorname: Max. Diese Felder beschreiben die Person und bilden diverse Eigenschaften ab.
+Hier seht ihr einen Personalausweis mit diversen Feldern. Diese Felder beschreiben die Person und bilden diverse Eigenschaften ab.
+Dabei sollte in eurem Programm immer der zweite Teil des Feldes in eine Variable gespeichert werden. Beispiel für ein Feld:
+
+Vorname: Max
+Hier sollte "Max" in eine Variable gespeichert werden.
+
 Es sollte auch direkt auffallen, dass die verschiedenen Eigenschaften auch verschiedene "Datentypen" benutzen.
 
 Ihr sollt nun die gesamten Daten des Personalausweises in ein kleines Java-Programm übertragen. 
@@ -28,8 +33,8 @@ Ihr sollt nun die gesamten Daten des Personalausweises in ein kleines Java-Progr
 Als kleine Hilfestellung findet ihr hier unten noch ein paar Ressourcen, die euch weiterhelfen können. Beziehungsweise die Überblicke über die verschiedenen Themen aus dem Java-Wegweiser.
 
 ## Datentyp String
-Ein Datentyp der per se kein primitiver Datentyp ist, jedoch fast so genutzt wird ist der *String*
-Diese werden genutzt, um eine längere Zeichenkette, wie ein Satz, zu speichern, verarbeiten oder auszugeben. Beispiel wie man eine String-Variable in Java erstellt:
+Ein Datentyp der per se kein primitiver Datentyp ist, jedoch fast so genutzt wird, ist der *String*.
+Ein String wird genutzt, um eine längere Zeichenkette, wie einen Satz, zu speichern, verarbeiten oder auszugeben. Beispiel wie man eine String-Variable in Java erstellt:
 
 `String variable = "Hier ist eine längere Zeichenkette";`
 
