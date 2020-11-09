@@ -30,7 +30,7 @@ Als kleine Hilfestellung findet ihr hier unten noch ein paar Ressourcen, die euc
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
-- [🎥 Börges Seminar Video](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE)
+- [🎥 Börges Seminar Video](https://www.ilias.uni-koeln.de/ilias/ilias.php?ref_id=3638292&eid=ccc0c271-a980-47c7-8484-c1160a1e6933&cmd=streamVideo&cmdClass=xoctplayergui&cmdNode=wn:os:17u:185&baseClass=ilrepositorygui)
 
 - [📃 Primitive Datentypen (Wegweiser)](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Datentypen.md)
 - [📃 Primitive Datentypen (extern)](https://de.wikibooks.org/wiki/Java_Standard:_Primitive_Datentypen)
